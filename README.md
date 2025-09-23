@@ -18,12 +18,12 @@
 <h3 align="left">Connect with me:</h3>
 <h3 align="left">Projects:</h3>
 
-- ⚡ **Online Code Editor**  
+- ⚡ **CodeNest**  
   Developed a full-stack **Code Editor** supporting multiple programming languages with real-time execution.  
   Added features like **subscription-based access, authentication, and database integration**.  
   Built using **React, Node.js, Express, and MongoDB**, ensuring scalability and smooth user experience.
   
-- ⚡ **Remote Interview Platform**  
+- ⚡ **HirePro**  
   Built a **full-stack remote interview system** with real-time features.  
   Integrated **Clerk** for authentication, **Convex** for database + APIs, **Stream.io** for chat/video calls, and **Monaco Editor** for collaborative coding.  
   Enabled **role-based access** (candidate/interviewer) and seamless interview scheduling with feedback system.
