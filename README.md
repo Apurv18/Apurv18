@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apurv18" alt="apurv18" /></a> </p>
 
-- 🔭 I’m currently working on **Image compressor**
+- 🔭 I’m currently working on **JAVA backend desingning**
 
-- 🌱 I’m currently learning **Gen AI, NLP and neural networks along with System design**
+- 🌱 I’m currently learning **System design, Microservices, AWS , SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Apurv18](https://github.com/Apurv18)
 
-- 💬 Ask me about **React , Node , Express ,**
+- 💬 Ask me about **React , Node , Express , Recat js , **
 
 - 📫 How to reach me **wadnereapur@gmail.com**
 
