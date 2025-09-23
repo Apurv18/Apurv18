@@ -21,7 +21,13 @@
 - ⚡ **Online Code Editor**  
   Developed a full-stack **Code Editor** supporting multiple programming languages with real-time execution.  
   Added features like **subscription-based access, authentication, and database integration**.  
-  Built using **React, Node.js, Express, and MongoDB**, ensuring scalability and smooth user experience.  
+  Built using **React, Node.js, Express, and MongoDB**, ensuring scalability and smooth user experience.
+  
+- ⚡ **Remote Interview Platform**  
+  Built a **full-stack remote interview system** with real-time features.  
+  Integrated **Clerk** for authentication, **Convex** for database + APIs, **Stream.io** for chat/video calls, and **Monaco Editor** for collaborative coding.  
+  Enabled **role-based access** (candidate/interviewer) and seamless interview scheduling with feedback system.
+  
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/apurv-wadnere-10834222b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/apurv-wadnere-10834222b/" height="30" width="40" /></a>
