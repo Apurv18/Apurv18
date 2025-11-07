@@ -18,15 +18,21 @@
 <h3 align="left">Connect with me:</h3>
 <h3 align="left">Projects:</h3>
 
+- ⚡ **HirePro**  
+  Built a **full-stack remote interview system** with real-time features.  
+  Integrated **Clerk** for authentication, **Convex** for database + APIs, **Stream.io** for chat/video calls, and **Monaco Editor** for collaborative coding.  
+  Enabled **role-based access** (candidate/interviewer) and seamless interview scheduling with feedback system.
+
+- ⚡ **SmartSpend**  
+  Developed a Java-based Expense Management System, achieving 95% accuracy in expense categorization.
+  Built a polyglot system with a LangChain AI service for expense parsing and a Kafka based architecture.
+  Tech Stack: Java, Spring Boot, LangChain, Kafka, MySQL
+
 - ⚡ **CodeNest**  
   Developed a full-stack **Code Editor** supporting multiple programming languages with real-time execution.  
   Added features like **subscription-based access, authentication, and database integration**.  
   Built using **React, Node.js, Express, and MongoDB**, ensuring scalability and smooth user experience.
   
-- ⚡ **HirePro**  
-  Built a **full-stack remote interview system** with real-time features.  
-  Integrated **Clerk** for authentication, **Convex** for database + APIs, **Stream.io** for chat/video calls, and **Monaco Editor** for collaborative coding.  
-  Enabled **role-based access** (candidate/interviewer) and seamless interview scheduling with feedback system.
   
 
 <p align="left">
