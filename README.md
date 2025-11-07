@@ -11,11 +11,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Apurv18](https://github.com/Apurv18)
 
-- 💬 Ask me about **React , Node , Express , React js , **
+- 💬 Ask me about **React , Node , Express , React js , SpringBoot**
 
-- 📫 How to reach me **wadnereapur@gmail.com**
+- 📫 How to reach me **wadnereapurv@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <h3 align="left">Projects:</h3>
 
 - ⚡ **HirePro**  
