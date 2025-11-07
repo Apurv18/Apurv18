@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Apurv18](https://github.com/Apurv18)
 
-- 💬 Ask me about **React , Node , Express , Recat js , **
+- 💬 Ask me about **React , Node , Express , React js , **
 
 - 📫 How to reach me **wadnereapur@gmail.com**
 
